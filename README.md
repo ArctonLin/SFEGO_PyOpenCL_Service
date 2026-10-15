@@ -31,3 +31,13 @@
 - Modify IN_Folder for read image and OUT_Folder for save Spatial Frame
 
 - python Client.py
+
+---
+
+## Support
+
+<div align="center">
+  <a href="https://buymeacoffee.com/arcton" target="_blank">
+    <img src="buymeacoffee.jpg" alt="Buy Me A Coffee" width="360">
+  </a>
+</div>
